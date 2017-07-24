@@ -3,8 +3,6 @@
 ## Example 3
 `node example3.js geojsonfile <width> <height>`
 
-works well with https://mapzen.com/data/metro-extracts/
-
 ## Usage:
 
 ```
